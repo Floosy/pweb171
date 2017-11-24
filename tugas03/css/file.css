@@ -5,6 +5,7 @@ body
   background-size: cover;
 }
 
+
 /* layout */
 .container
 {
@@ -83,7 +84,7 @@ body
   margin-right: auto;
   margin-top: 20px;
   margin-bottom: 20px;
-  display:block;
+  display:none;
   overflow: hidden;
   font-weight: bold;
   text-align: center;
